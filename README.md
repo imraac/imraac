@@ -38,20 +38,7 @@
   
 
 
- 
-## 📦 Toolbox
 
- 
-* **Version Control:** Git, GitLab, Bitbucket
-* **Professional Development:**
-  - Ongoing learning in python,PHP 
-  - Ongoing learning in PostgreSQL
-   
-* **Testing:** Thunder client
-
-###
-## 📫 Contact
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/imranabdisalan/)   
 
 
 
