@@ -1,5 +1,8 @@
 ## 📫 Contact
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/imranabdisalan/)    
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/imranabdisalan/)    <div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+ 
+</div>
  
 ## 📦 Toolbox
 
@@ -15,7 +18,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imraac) 
 
 
-<img src="https://raw.githubusercontent.com/imraac/imraac/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -53,13 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/imraac/imraac/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-</div>
 
-###
