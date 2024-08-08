@@ -33,8 +33,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  
 </div>
+  
+
+
+ 
+## 📦 Toolbox
+
+ 
+* **Version Control:** Git, GitLab, Bitbucket
+* **Professional Development:**
+  - Ongoing learning in python,PHP 
+  - Ongoing learning in PostgreSQL
+   
+* **Testing:** Thunder client
 
 ###
 ## 📫 Contact
@@ -42,13 +55,3 @@
 
 
 
- 
-## 📦 Toolbox
-
-* **Frontend Development:** React JS, HTML, CSS  
-* **Version Control:** Git, GitLab, Bitbucket
-* **Professional Development:**
-  - Ongoing learning in python,PHP 
-  - Ongoing learning in PostgreSQL
-   
-* **Testing:** Thunder client
