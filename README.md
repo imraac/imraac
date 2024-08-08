@@ -1,26 +1,8 @@
-## 📫 Contact
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/imranabdisalan/)    <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
- 
-</div>
- 
-## 📦 Toolbox
-
-* **Frontend Development:** React JS, HTML, CSS  
-* **Version Control:** Git, GitLab, Bitbucket
-* **Professional Development:**
-  - Ongoing learning in PHP  
-  - Ongoing learning in MySQL
-   
-* **Testing:** Postman  
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imraac) 
+  
 
 
 
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -55,7 +37,18 @@
 </div>
 
 ###
+## 📫 Contact
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/imranabdisalan/)   
 
 
 
+ 
+## 📦 Toolbox
 
+* **Frontend Development:** React JS, HTML, CSS  
+* **Version Control:** Git, GitLab, Bitbucket
+* **Professional Development:**
+  - Ongoing learning in python,PHP 
+  - Ongoing learning in PostgreSQL
+   
+* **Testing:** Thunder client
