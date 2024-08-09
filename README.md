@@ -33,9 +33,10 @@
 </div>
   
 
-<div></div>
 
-<div><img src="https://github.com/user-attachments/assets/888c2598-fedd-4674-9c04-aab396be06b2" alt="Git Image" style="width: 100%;" />
+
+<div>
+<img src="https://github.com/user-attachments/assets/3388e327-9c5b-497d-91cd-9c82f263ec4c" alt="Ghost Image" style="width: 100%; height: auto;">
 
 </div>
 
