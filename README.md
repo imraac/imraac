@@ -36,7 +36,7 @@
 
 
 <div>
-<img src="https://github.com/user-attachments/assets/f43be535-12e6-48c7-b1ae-ed3879e707d3" alt="Small Ghost Image">
+<img src="https://github.com/user-attachments/assets/f43be535-12e6-48c7-b1ae-ed3879e707d3" alt="Small Ghost Image" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
 </div>
 
