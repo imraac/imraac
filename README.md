@@ -35,7 +35,6 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/f43be535-12e6-48c7-b1ae-ed3879e707d3" alt="Small Ghost Image" style="width: 100%; height: auto; display: block;">
 
 
 
